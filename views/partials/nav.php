@@ -17,6 +17,9 @@
                     <a class="nav-link px-3 rounded hover-nav <?= urlIs('/about') ? 'active' : '' ?>" href="/about">About</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link px-3 rounded hover-nav <?= urlIs('/notes') ? 'active' : '' ?>" href="/notes">Notes</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link px-3 rounded hover-nav <?= urlIs('/contact') ? 'active' : '' ?>" href="/contact">Contact</a>
                 </li>
             </ul>

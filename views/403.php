@@ -4,7 +4,10 @@
 
 <section>
     <div class="container">
-    <p class="p">Contact page </p>
+        <h2 class="p">Unauthorized !</h2>
+        <p>
+            <a href="/" class="btn btn-primary">Go back to Home</a>
+        </p>
     </div>
 </section>
 
